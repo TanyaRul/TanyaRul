@@ -1,9 +1,16 @@
-<h1 align="center">Hi 👋, I'm Tanya</h1>
-<h3 align="center">A junior android developer from Russia</h3>
+<h1 align="center">Hello there 👋  I'm Tanya</h1>
+<h3 align="center">Android Developer</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages</h3>
+<p align="left"> Kotlin / Java </p>
 
-Android SDK / Android Studio / Design Patterns / Clean Architecture / Git / JSON / XML / REST API
+<h3 align="left">Develoment Tools:</h3>
+<p align="left"> Android Studio / Git / Gradle / Figma / Postman </p>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TanyaRul&show_icons=true&locale=en&layout=compact" alt="tanyarul" /> <br> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TanyaRul&theme=github" alt="tanyarul" /></p> 
+<h3 align="left">Skills:</h3>
+<p align="left"> Android SDK / SOLID / Clean Architecture / Dependency Injection / REST API / Coroutines </p>
+
+<h3 align="left">Libraries and Tools:</h3>
+<p align="left"> Retrofit 2 / Dagger 2 / Koin / Room / Gson / Glide / Jetpack Navigation Component/ ViewBinding & DataBinding / </p>
+
+
